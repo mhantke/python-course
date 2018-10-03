@@ -9,7 +9,7 @@
 
 ### First steps with Git:
 
-1) Go to https://github.com and register. Send an email with your username to *maxhantke@gmail.com*. Max will add this user as a collaborator to the online repository and grant write permission to the account.
+1) Go to https://github.com and register. Send an email with your username to *maxhantke@gmail.com*. Max will add this user as a collaborator to the online repository and grant write permission to the account. Accept the invitation to collaborate that is sent to you by email.
 2) Open *Git BASH* - this is the bash shell that you will use to control git.
 3) Tell Git who you are by calling: ``git config —-global user.name “Max Hantke”`` and ``git config —-global user.email “max.hantke@gmail.com”`` (replace details with your own)
 4) Navigate (basic commands: ``ls``, ``cd``, ``pwd``) to the directory where you like to keep your python code
