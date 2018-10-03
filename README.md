@@ -19,8 +19,8 @@
 9) Open Anaconda and Jupyter Lab. Open your notebook and change the author line to your name. Save the notebook.
 10) Go back to Git BASH and add the new file to the repository. For the example this can be done by calling: ``git add session1_hantke.ipynb``.
 11) Commit your change to the repository by calling: ``git commit -a -m "added a new file"``.
-12) Pull the most recent version from *Github* by calling ``git pull``.
-13) Push your changes to the *Github* server by calling: ``git push``. You will be asked to enter your Github account credentials. You may be redirected into an editor session, most likely *VIM*, to enter a commit message. Just accept the suggested default message by saving and closing the file (in *VIM* type ``:wq``).
+12) Pull the most recent version from *Github* by calling ``git pull``. You may be redirected into an editor session, most likely *VIM*, to enter a commit message for the merge of the remote changes with your local changes. Just accept the suggested default message by saving and closing the file (in *VIM* type ``:wq``).
+13) Push your changes to the *Github* server by calling: ``git push``. You will be asked to enter your Github account credentials.
 14) Check under the tab **<> Code** (here on this webpage) whether your file was successfully uploaded to the online repository. Click on the file to check whether the name in the author line matches your name.
 
 ### First steps with Python in Jupyter Lab:
