@@ -9,9 +9,9 @@
 
 ### First steps with Git:
 
-1) Go to github.com and register. Send an email with your username to *maxhantke@gmail.com*. Max will add this user as a collaborator to the online repository and grant write permission to the account.
-2) Open *Git BASH*
-3) Tell Git who you are by calling: ``git config —-global user.name “Max Hantke”`` and ``git config —-global user.email “max.hantke@gmail.com”``
+1) Go to https://github.com and register. Send an email with your username to *maxhantke@gmail.com*. Max will add this user as a collaborator to the online repository and grant write permission to the account.
+2) Open *Git BASH* - this is the bash shell that you will use to control git.
+3) Tell Git who you are by calling: ``git config —-global user.name “Max Hantke”`` and ``git config —-global user.email “max.hantke@gmail.com”`` (replace details with your own)
 4) Navigate (basic commands: ``ls``, ``cd``, ``pwd``) to the directory where you like to keep your python code
 5) Make a clone of this repository by calling: ``git clone https://github.com/mhantke/python-course.git``
 6) Check whether the repository was generated (call ``ls``)
@@ -22,4 +22,8 @@
 12) Push your changes to the *Github* server by calling: ``git push``. You will be asked to enter your Github account credentials.
 13) Check under the tab **<> Code** (here on this webpage) whether your file was successfully uploaded to the online repository. Click on the file to check whether the name in the author line matches your name.
 
-### First steps in Jupyter Lab:
+### First steps with Python in Jupyter Lab:
+
+1) Open Anaconda and Jupyter Lab and open your notebook (*session1_XYZ.ipynb*). Don't edit *session1.ipynb* - this serves as a template for all participants. 
+2) Carry out all tasks in the notebook.
+3) Open *Git BASH* and commit and push your changes in your notebook.
