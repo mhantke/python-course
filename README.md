@@ -11,8 +11,8 @@
 
 1) Go to https://github.com and register. Send an email with your username to *maxhantke@gmail.com*. Max will add this user as a collaborator to the online repository and grant write permission to the account. Accept the invitation to collaborate that is sent to you by email.
 2) Open *Git BASH* - this is the bash shell that you will use to control git.
-3) Tell Git who you are by calling: ``git config —-global user.name “Max Hantke”`` and ``git config —-global user.email “max.hantke@gmail.com”`` (replace details with your own)
-4) Navigate (basic commands: ``ls``, ``cd``, ``pwd``) to the directory where you like to keep your python code
+3) Navigate (basic commands: ``ls``, ``cd``, ``pwd``) to the directory where you like to keep your python code
+4) Tell Git who you are by calling: ``git config —-global user.name “Max Hantke”`` and ``git config —-global user.email “max.hantke@gmail.com”`` (replace details with your own)
 5) Make a clone of this repository by calling: ``git clone https://github.com/mhantke/python-course.git``
 6) Check whether the repository was generated (call ``ls``)
 7) Open your file explorer, navigate to the cloned repository, and make a copy of *session1.ipynb*. This copy is your personal notebook therefore append an underscore followed by your last name to the name of the new file (for example: *session1_hantke.ipynb*).
