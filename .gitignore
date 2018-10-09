@@ -1,0 +1,16 @@
+*.pyc
+session1/.ipynb_checkpoints/
+session2/.ipynb_checkpoints/
+session3/.ipynb_checkpoints/
+session4/.ipynb_checkpoints/
+session5/.ipynb_checkpoints/
+session6/.ipynb_checkpoints/
+*.h5
+*.p
+*.png
+*.jpg
+*.mpg
+*.txt
+*.DS_Store
+*#*
+*~
