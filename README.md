@@ -1,7 +1,5 @@
 # Python Course
 
-## DAY 1
-
 ### Installation:
 
 1) Anaconda with Python 3.7 (64 bit) (https://www.anaconda.com/)
