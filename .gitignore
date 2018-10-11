@@ -13,7 +13,6 @@ slides/*.key
 *.png
 *.jpg
 *.mpg
-*.txt
 *.DS_Store
 *#*
 *~
