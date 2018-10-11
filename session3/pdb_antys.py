@@ -1,3 +1,4 @@
+import numpy
 def read_pdb(filename):
     if filename.endswith(".pdb"):
         with open(filename,'r') as file_handle:
