@@ -6,6 +6,7 @@ session4/.ipynb_checkpoints/
 session5/.ipynb_checkpoints/
 session6/.ipynb_checkpoints/
 slides/.ipynb_checkpoints/
+slides/*.key
 *.h5
 *.p
 *.png
