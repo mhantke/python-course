@@ -26,3 +26,4 @@
 1) Open Anaconda and Jupyter Lab and open your notebook (*session1_XYZ.ipynb*). Don't edit *session1.ipynb* - this serves as a template for all participants. 
 2) Carry out all tasks in the notebook.
 3) Open *Git BASH* and commit and push your changes in your notebook.
+# cmmills-python-course
