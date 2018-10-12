@@ -44,5 +44,6 @@
   - Copy the folder ``session4`` from ``python-course`` into your repository folder ``my-python-course``.
   - Add the new files for the course session by calling ``git add session4/session4.ipynb`` and ``git add session4/hsp165.txt``.
   - Commit your changes with ``git commit -a -m "first commit"``
-  - Configure the remote location for the local repository by ``git remote add origin git@github.com:``username``/my-python-course.git`` (replace "username" with your actual Github username).
+  - Configure the remote location for the local repository by ``git remote add origin https://github.com/``username``/my-python-course.git`` (replace "username" with your actual Github username).
   - Initialise pushing and push to the remote repository by ``git push -u origin master``.
+
