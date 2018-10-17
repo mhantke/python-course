@@ -46,3 +46,4 @@
   - Commit your changes with ``git commit -a -m "first commit"``
   - Configure the remote location for the local repository by ``git remote add origin https://github.com/``username``/my-python-course.git`` (replace "username" with your actual Github username).
   - Initialise pushing and push to the remote repository by ``git push -u origin master``.
+
