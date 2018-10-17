@@ -26,3 +26,24 @@
 1) Open Anaconda and Jupyter Lab and open your notebook (*session1_XYZ.ipynb*). Don't edit *session1.ipynb* - this serves as a template for all participants. 
 2) Carry out all tasks in the notebook.
 3) Open *Git BASH* and commit and push your changes in your notebook.
+
+### Create your own Git repository for session 4
+
+1) Update your local repository of ``python-course``:
+  - Open *Git BASH*, navigate to the folder where your *python-course* directory is, and enter it.
+  - Commit your changes, pull, and push.
+2) Create your own remote repository ``my-python-course``:
+  - Go to the [Github webpage](https://github.com), sign in (if necessary), and go to your personal github main page (``https://github.com/``username``/``, replace "username" with your actual Github username).
+  - Select **Repositories** and then **New**.
+  - Enter ``my-python-course`` as a repository name and select **Create repository**. 
+3) Initialise and sync your local repository for ``my-python-course``:
+  - In *Git BASH* navigate to the parent directory of ``python-course`` by typing ``cd ..``. Confirm that you ended up in the correct directory by using ``pwd`` and ``ls``.
+  - Make a new directory with the name *my-python-course* by calling ``mkdir my-python-course``.
+  - Enter the directory by calling ``cd my-python-course``.
+  - Initialise the git repository by ``git init``.
+  - Copy the folder ``session4`` from ``python-course`` into your repository folder ``my-python-course``.
+  - Add the new files for the course session by calling ``git add session4/session4.ipynb`` and ``git add session4/hsp165.txt``.
+  - Commit your changes with ``git commit -a -m "first commit"``
+  - Configure the remote location for the local repository by ``git remote add origin https://github.com/``username``/my-python-course.git`` (replace "username" with your actual Github username).
+  - Initialise pushing and push to the remote repository by ``git push -u origin master``.
+
